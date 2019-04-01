@@ -1,10 +1,10 @@
 {
-    "name": "juniorgrossi/hello-world",
+    "name": "robisys/hello-world",
     "description": "My first Composer project",
     "authors": [
         {
-            "name": "Your Name",
-            "email": "your@name.com"
+            "name": "Robert Pfafferodt",
+            "email": "robert@robisys.de"
         }
     ],
     "minimum-stability": "dev",
